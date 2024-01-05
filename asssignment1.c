@@ -24,14 +24,4 @@ int main(){
 
      
 }
-Output
-Enter the student name Rohinish
-Enter the students roll no 50
-Enter the marks in sub1,sub2,sub3,sub4,sub5 99
-     98
-     90
-     89
-     95
-total marks=471.00
-percentage=94.20%
-pass
+
